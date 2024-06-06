@@ -5,17 +5,17 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDVNGR6Sb4LbPYiwJmzy9jGOqBalleVkrXEA&s" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          A Dummy App I created to learn to Build React Docker Image <br/>while learing Devops with Docker Course on University of Helsinki MOOC Course
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://devopswithdocker.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn Docker from University of Helsinki MOOC Course
         </a>
       </header>
     </div>
